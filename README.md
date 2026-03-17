@@ -89,7 +89,7 @@ Com a implementação do sistema, espera-se:
 
 ## Instruções de Uso
 
-> **Observação:** Por questões de segurança, o código não será disponibilizado neste repositório, caso tenha interesse entre em contato pelo e-mail: kaymminunes@gmail.com
+> **Observação:** caso tenha interesse entre em contato pelo e-mail: kaymminunes@gmail.com
 
 ---
 
