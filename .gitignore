@@ -1,6 +1,2 @@
-
-# Ignore all files in the repository
-*
-# Except for .gitignore and .ino files
-!.gitignore
-!.ino
+.gitignore
+.ino
